@@ -1,0 +1,80 @@
+{
+    "artists": [
+      { 
+          "id": 1,
+          "name": "Tylor Swift",
+          "cover":"TS.jpg",
+          "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "albums": [
+              {"albumId":"a1","title":"Fearless","year":2011,"cover":"Fearless_Ts.jpg","price":20},
+              {"albumId":"a2","title":"ME","year":2013,"cover":"ME_TS.jpg","price":25},
+              {"albumId":"a3","title":"Reputation","year":2017,"cover":"Reputation_TS.jpg","price":15},
+              {"albumId":"a4","title":"Red","year":2014,"cover":"Red_TS.jpg","price":10}
+          ],
+          "style":"pop"
+      },
+      { 
+          "id": 2,
+          "name": "Eminem",
+          "cover":"Eminem.jpg", 
+          "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "albums": [
+              {"albumId":"b1","title":"Music To be Murdered By","year":2019,"cover":"Music_to_be_murdered_by.jpg","price":20},
+              {"albumId":"b2","title":"Unreleased","year":2008,"cover":"Unreleased.jpg","price":25},
+              {"albumId":"b3","title":"Recovery","year":2012,"cover":"Recovery.jpg","price":15}
+          ],
+          "style":"rap"
+      },
+      { 
+          "id": 3,
+          "name": "Drake", 
+          "cover":"Drake.jpg",
+          "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.", 
+          "albums": [
+              {"albumId":"c1","title":"Views","year":2010,"cover":"Views_Drake.jpg","price":20},
+              {"albumId":"c2","title":"All Me","year":2014,"cover":"All_me_Drake.jpg","price":25},
+              {"albumId":"c3","title":"Take Care","year":2000,"cover":"drake-take-care.jpg","price":15},
+              {"albumId":"c4","title":"Nothing The Same","year":2012,"cover":"Nothing_the_same.jpg","price":10}
+          ],
+          "style":"rap"
+      },
+      { 
+          "id": 4,
+          "name": "NF", 
+          "cover":"NF.jpg", 
+          "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+          "albums": [
+              {"albumId":"d1","title":"The Search","year":2018,"cover":"The_Search.jpg","price":20},
+              {"albumId":"d2","title":"Preception","year":2013,"cover":"Preception.jpg","price":25},
+              {"albumId":"d3","title":"Therapy Session","year":2014,"cover":"Therapy_Session.jpg","price":15}
+          ],
+          "style":"rap"
+      },
+      { 
+        "id": 5,
+        "name": "Hasley", 
+        "cover":"Halsey.jpg", 
+        "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "albums": [
+            {"albumId":"e1","title":"Manic","year":2019,"cover":"Manic.jpg","price":20},
+            {"albumId":"e2","title":"Hopeless","year":2015,"cover":"Hopeless.jpg","price":25},
+            {"albumId":"e3","title":"NightMare","year":2000,"cover":"NightMare.jpg","price":15},
+            {"albumId":"e4","title":"Badlands","year":1985,"cover":"Badlands.jpg","price":15}
+        ],
+        "style":"pop"
+        },
+        { 
+            "id": 6,
+            "name": "Beatles", 
+            "cover":"Beatles.jpg", 
+            "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+            "albums": [
+                {"albumId":"f1","title":"Second","year":1979,"cover":"Second.jpg","price":20},
+                {"albumId":"f2","title":"RocknRoll","year":1965,"cover":"RocknRoll.jpg","price":25},
+                {"albumId":"f3","title":"LoneylyHearts","year":1980,"cover":"LoneylyHearts.jpg","price":15}
+            ],
+            "style":"Rock"
+        }
+    ]
+  }
+
